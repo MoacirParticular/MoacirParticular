@@ -28,7 +28,12 @@ Tenho Habilidade em aprender novas tecnologias
 
 Facilidade de Comunicação
 
-> _Tenho a liderança no sangue_
+🤔
+> _Atrás dos Seus Sonhos corra_
+> 
+> _E se certo não der_
+>
+> _Pelo menos emagrecer você irá_
 
 <!--
 **MoacirParticular/MoacirParticular** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
