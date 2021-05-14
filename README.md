@@ -33,9 +33,11 @@ Facilidade de Comunicação
 
 # Tutoriais
 > Estou criando alguns tutoriais, espero contribuir alguém de alguma forma
+
 > _Certas horas ir você tem, pedir conselho aos mais Sábios e Experientes você deve._
 
-_Eu gosto de ensinar, faz parte de mim e ao longo de vários anos de experiência que eu adquiri, chegou a hora de passar adiante esta experiência.
+_Eu gosto de ensinar, faz parte de mim e ao longo de vários anos de experiência que eu adquiri, chegou a hora de passar adiante esta experiência._
+
 > _Atrás dos Seus Sonhos corra, E se certo não der, Pelo menos emagrecer você irá_
 
 ## POO
