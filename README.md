@@ -30,11 +30,29 @@ Tenho Habilidade em aprender novas tecnologias
 
 Facilidade de Comunicação
 
-![](https://github.com/MoacirParticular/MoacirParticular/blob/main/Imagens/yoda.gif)
 
+# Tutoriais
+> Estou criando alguns tutoriais, espero contribuir alguém de alguma forma
 > _Certas horas ir você tem, pedir conselho aos mais Sábios e Experientes você deve._
-> 
+
+_Eu gosto de ensinar, faz parte de mim e ao longo de vários anos de experiência que eu adquiri, chegou a hora de passar adiante esta experiência.
 > _Atrás dos Seus Sonhos corra, E se certo não der, Pelo menos emagrecer você irá_
+
+## POO
+[Definição Programação Orientada a Objetos (POO)](https://github.com/MoacirParticular/POO-o-que-programa-o-orientada-a-objetos/blob/main/Arquivos/Definição-POO.md)
+Veja aqui os conceitos de POO e alguns exemplos em Swift.
+
+
+## Desafios
+[Desafio Pedra Papel Tesoura](https://github.com/MoacirParticular/POO-o-que-programa-o-orientada-a-objetos/blob/main/Arquivos/Desafio%20PPT.md)
+Eu te desafio ![](https://github.com/MoacirParticular/MoacirParticular/blob/main/Imagens/bluelightsaber.png)
+
+## Debugando
+[Rubber Duck Debugging](https://github.com/MoacirParticular/BreakPoint/blob/main/)
+
+
+
+![](https://github.com/MoacirParticular/MoacirParticular/blob/main/Imagens/yoda.gif)
 
 <!--
 Difícil de ver é, Sempre em movimento está o futuro
