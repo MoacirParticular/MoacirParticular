@@ -50,7 +50,7 @@ Veja aqui os conceitos de POO e alguns exemplos em Swift.
 Eu te desafio 
 
 ## Debugando
-[Rubber Duck Debugging](https://github.com/MoacirParticular/BreakPoint/blob/main/)
+[Rubber Duck Debugging](https://github.com/MoacirParticular/BreakPoint)
 
 
 
