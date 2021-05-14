@@ -47,13 +47,16 @@ Veja aqui os conceitos de POO e alguns exemplos em Swift.
 
 ## Desafios
 [Desafio Pedra Papel Tesoura](https://github.com/MoacirParticular/POO-o-que-programa-o-orientada-a-objetos/blob/main/Arquivos/Desafio%20PPT.md)
-Eu te desafio ![](https://github.com/MoacirParticular/MoacirParticular/blob/main/Imagens/bluelightsaber.png)
+Eu te desafio 
 
 ## Debugando
 [Rubber Duck Debugging](https://github.com/MoacirParticular/BreakPoint/blob/main/)
 
 
 
+
+
+.
 ![](https://github.com/MoacirParticular/MoacirParticular/blob/main/Imagens/yoda.gif)
 
 <!--
