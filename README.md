@@ -21,10 +21,12 @@ Mais de 30 anos de experiência em Tecnologia da Informação atuando como desen
 ### CONHECIMENTOS E HABILIDADES
 
 Gerenciamento de projetos, Liderança, gerenciamento de equipe. 
-Desenvolvi alguns projetos pessoais em iOS, varios profissionalmente para empresas algumas empresas como 
-> HabloApp, CINQ, B2Beauty Group, Amigos Sistemas, BluSistemas
+Desenvolvi alguns projetos pessoais em iOS, varios profissionalmente para algumas empresas como 
+> HabloApp, Atar, CINQ, B2Beauty Group, Amigos Sistemas, BluSistemas
 
-#### Atualmente estou atuando na everis / NTTData, 
+#### Atualmente estou me dedicando a everis / NTTData, 
+>Nós na everis/NTTData, estamos sempre procurando ótmos profissinais, venha fazer parte da nossa família.
+>Entre em contato comigo, terei o prazer em apresentar nossa empresa e te convidar a entrar.
 
 Tenho Habilidade em aprender novas tecnologias
 
