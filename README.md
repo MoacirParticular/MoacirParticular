@@ -44,22 +44,63 @@ _Eu gosto de ensinar, faz parte de mim e ao longo de vários anos de experiênci
 [Definição Programação Orientada a Objetos (POO)](https://github.com/MoacirParticular/POO-o-que-programa-o-orientada-a-objetos/blob/main/Arquivos/Definição-POO.md)
 Veja aqui os conceitos de POO e alguns exemplos em Swift.
 
+>_Sempre passar o que você aprendeu._
 
 ## Desafios
 [Desafio Pedra Papel Tesoura](https://github.com/MoacirParticular/POO-o-que-programa-o-orientada-a-objetos/blob/main/Arquivos/Desafio%20PPT.md)
 Eu te desafio 
 
+>_Seres luminosos somos nós. Não esta matéria bruta._
+
 ## Debugando
 [Rubber Duck Debugging](https://github.com/MoacirParticular/BreakPoint)
 
 
+>_Difícil de ver é, Sempre em movimento está o futuro_
+
+## ScrollView
+[Programmatically](https://github.com/MoacirParticular/using-scrollview-programmatically-in-swift)
 
 
 
 .
 ![](https://github.com/MoacirParticular/MoacirParticular/blob/main/Imagens/yoda.gif)
+>_Que a Força esteja com você._
 
 <!--
-Difícil de ver é, Sempre em movimento está o futuro
+Guerras não faz grande ninguém.
+
+Luke: Mas eu não acredito!
+Yoda: É por isso que você fracassa.
+
+
+A morte é uma parte natural da vida. Feliz fique por aqueles que na Força se transformam. Apego leva ao ciúmes, a sombra da ganância isso é.
+
+Verdadeiramente maravilhosa, a mente de uma criança é.
+
+Faça. Ou não faça. Não existe a tentativa.
+
+
+
+Yoda, o grande mestre Jedi, é uma das figuras mais marcantes da cultura pop. Mestre Yoda foi um guerreiro extraordinário da Ordem Jedi mas, acima de tudo, um professor que marcou gerações de fãs da saga.
+Seus pensamentos filosóficos foram ensinamentos emblemáticos do cinema, e ensinaram muito a Luke e ao público sobre disciplina, dedicação máxima e a Força.
+Yoda ensinando Luke
+Faça. Ou não faça. Não existe a tentativa.
+
+Star Wars: Episódio V - O Império Contra-Ataca
+Yoda junto das crianças Jedi
+Verdadeiramente maravilhosa, a mente de uma criança é.
+
+Star Wars: Episódio II - Ataque dos Clones
+Yoda
+A morte é uma parte natural da vida. Feliz fique por aqueles que na Força se transformam. Apego leva ao ciúmes, a sombra da ganância isso é.
+
+Star Wars: Episódio III - A Vingança dos Sith
+Yoda
+Luke: Mas eu não acredito!
+
+Yoda: É por isso que você fracassa.
+
+Star Wars: Episódio V - O Império Contra-Ataca
 --!>
  
