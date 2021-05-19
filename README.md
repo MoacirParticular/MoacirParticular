@@ -64,6 +64,10 @@ Eu te desafio
 [Programmatically](https://github.com/MoacirParticular/using-scrollview-programmatically-in-swift)
 
 
+## Design Patterns
+[Tutorial sobre Padrões de Projeto](https://github.com/MoacirParticular/Padroes-de-Projeto)
+
+[Padrão MVVM-C](https://github.com/MoacirParticular/Login-MVVM-C)
 
 .
 ![](https://github.com/MoacirParticular/MoacirParticular/blob/main/Imagens/yoda.gif)
